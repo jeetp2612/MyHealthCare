@@ -24,7 +24,7 @@ Make your changes and improvements.
 Create a pull request detailing the enhancements you've made.
 
 Deployment:
-HealthHub is hosted on Netlify, providing a seamless and reliable user experience. Visit MyHealthCare "https://myhealthcarebyjeet.netlify.app" to explore the platform.
+HealthHub is hosted on Netlify, providing a seamless and reliable user experience. Visit MyHealthCare https://myhealthcarebyjeet.netlify.app to explore the platform.
 
 Feel free to reach out for any queries or assistance. MyHealthCare - Your Partner in Health!
 
